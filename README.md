@@ -1,2 +1,2 @@
 # L_RSA
-平分:sato→秘密鍵→公開鍵→sato
+平分:sato→private_key→public_key→sato
